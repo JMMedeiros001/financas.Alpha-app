@@ -1,2 +1,2 @@
-# financas.Alpha-app
-Aplicativo FINANÇAS
+# Kupa
+Aplicativo Kupa suporte
